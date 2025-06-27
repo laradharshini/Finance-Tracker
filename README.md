@@ -22,9 +22,9 @@ A simple and effective web application to manage personal finances. Track expens
 1. Clone the repo  
    ```bash
    git clone https://github.com/yourusername/finance-tracker.git
-Set up the MySQL database (see /db/finance_tracker.sql)
+Set up the MySQL database (/db/finance_tracker.sql)
 
-Configure DB credentials in DBConnection.java
+Configure DB credentials
 
 Deploy on Apache Tomcat
 
