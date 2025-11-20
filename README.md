@@ -2,14 +2,14 @@
 
 A simple and effective web application to manage personal finances. Track expenses, set goals, and stay on top of your budget.
 
-# Tech Stack
+## Tech Stack
 
 - **Backend:** Java Servlets, JSP, JDBC  
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
 - **Database:** MySQL  
 - **Server:** Apache Tomcat
 
-# Key Features
+## Key Features
 
 - User registration & login  
 - Add, update, delete transactions  
@@ -17,7 +17,7 @@ A simple and effective web application to manage personal finances. Track expens
 - Financial goal setting  
 - Profile setup & editing
 
-# Getting Started
+## Getting Started
 
 - Clone the repo  
    ```bash
@@ -29,14 +29,14 @@ A simple and effective web application to manage personal finances. Track expens
 
 - Deploy on Apache Tomcat
 
-# Project Structure
+## Project Structure
 src/ – Java Servlets
 
 WebContent/ – JSP, CSS, JS, images
 
 lib/ – MySQL JDBC Driver
 
-# To Do
+## To Do
 Export to PDF/CSV
 
 Charts & visual analytics
